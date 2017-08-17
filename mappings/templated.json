@@ -1,0 +1,14 @@
+{
+  "request": {
+    "urlPattern": "/templated",
+    "method": "GET"
+  },
+  "response": {
+    "bodyFileName": "templated.json",
+    "headers": {
+      "Content-Type": "application/json"
+    },
+    "status": 200,
+    "transformers": ["response-template"]
+  }
+}

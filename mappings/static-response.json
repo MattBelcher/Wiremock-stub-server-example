@@ -1,0 +1,10 @@
+{
+  "request": {
+    "urlPattern": "/static",
+    "method": "GET"
+  },
+  "response": {
+    "status": 200,
+    "body": "{ \"id\" : \"1\" }"
+  }
+}

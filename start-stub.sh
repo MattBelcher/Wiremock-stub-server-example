@@ -1,0 +1,1 @@
+java -jar stub-server.jar --global-response-templating
